@@ -10,6 +10,8 @@ export const Code = styled.View`
     background: #FFF;
     padding: 10px;
     align-self: center;
+    width: 80px;
+    height: 80px;
 `;
 
 export const Nav = styled.View`

@@ -17,9 +17,9 @@ export default function Menu( {translateY} ) {
             <Code>
                 <QRCode 
                     value="https://rafaelvalentim.com.br"
-                    size={80}
+                    size={235}
                     fgColor="#FFF"
-                    bgColor="#8B10AE"
+                    bgColor="#8B10AE"                                      
                 />
             </Code>
             <Nav>
